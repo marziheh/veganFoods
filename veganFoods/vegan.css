@@ -1,0 +1,65 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    font-family:comic sans MS;
+    box-sizing: border-box;
+}
+
+.main-header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 700px;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+   
+
+}
+
+
+.main-title{
+    font-size: 60px;
+    font-style: italic;
+    font-family: cursive;
+    margin: 50px 0 40px 0;
+}
+
+.header-img{
+    width: 700px;
+    height: 400px;
+
+}
+
+
+.recepies{
+    display: flex;
+    align-items: stretch;
+}
+
+.story{
+    border: 100px  white;
+    padding: 100px;
+    width: 50%;
+    height: 50%;
+}
+
+.caesar{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+
+}
+
+.caesar-text{
+
+    padding: 5xp;
+
+}
+
+.img-text{
+
+    display: inline;
+
+
+}
